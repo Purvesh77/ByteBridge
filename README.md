@@ -1,4 +1,4 @@
-# CodeNova
+# ByteBridge
 ### Social Media Community for Programmers
 
 This platform is designed to help programmers level up their CP/DSA (Competitive Programming/Data Structures and Algorithms) skills by providing a comprehensive set of features. Whether you're a beginner looking to improve your problem-solving abilities or an experienced programmer seeking new challenges, our platform has something for everyone.
@@ -66,7 +66,7 @@ We welcome contributions from the community. If you have an idea for a new featu
 * Clone the forked repository to your local machine using the git clone command:
 
 ```
-git clone https://github.com/<YOUR_USERNAME>/CodeNova.git
+git clone https://github.com/<YOUR_USERNAME>/ByteBridge.git
 ```
 
 design doc: https://docs.google.com/document/d/1bIziAhJ--MmQvk-q4XGUiM60fk02oVK07Qhbqn9xFbw/edit?usp=sharing
