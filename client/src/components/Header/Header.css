@@ -1,0 +1,63 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  width: 1200px;
+  margin: 24px auto;
+}
+
+.logo {
+  color: #dc7418;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 5px;
+  gap: 20px;
+  background: rgba(255, 122, 0, 0.1);
+  border-radius: 5px;
+}
+
+.menu-link {
+  color: #dc7418;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 10px;
+  gap: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.menu-link:hover {
+  background: #fa9236;
+  border-radius: 5px;
+  color: white;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  width: 250px;
+}
+
+.user p {
+  color: #121212;
+  font-weight: 500;
+}
+
+.user-img {
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid #dc7418;
+}
