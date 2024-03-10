@@ -1,72 +1,51 @@
-# CodeNova
-### Social Media Community for Programmers
+# ByteBridge: Enhancing Programmer Skills
 
-This platform is designed to help programmers level up their CP/DSA (Competitive Programming/Data Structures and Algorithms) skills by providing a comprehensive set of features. Whether you're a beginner looking to improve your problem-solving abilities or an experienced programmer seeking new challenges, our platform has something for everyone.
+## Introduction
 
-### Problem Faced
+ByteBridge is a social media platform tailored for programmers to elevate their CP/DSA (Competitive Programming/Data Structures and Algorithms) skills. Whether you're a novice seeking improvement or an expert in search of new challenges, ByteBridge offers a diverse range of features to cater to your needs.
 
-As a programmer, you may have encountered the following challenges:
+## Challenges Faced
 
-* Time-consuming search: It can be frustrating and time-consuming to visit multiple platforms, such as GFG, Codeforces, and Leetcode, to find suitable practice questions that match your skill level.
-* Difficulty selection: Finding questions that are appropriately challenging can be a struggle. It's common to end up with questions that are either too easy or too difficult, hindering your progress.
-* Lack of motivation: Without a structured approach to practice and improvement, it's easy to lose motivation and struggle to make consistent progress.
+Programmers often encounter the following hurdles:
 
-### Our Solution
+- Time-consuming search: Scouring multiple platforms like GFG, Codeforces, and Leetcode for suitable practice questions can be tedious.
+- Difficulty selection: Finding questions of appropriate difficulty level can be challenging, leading to frustration.
+- Lack of motivation: Without a structured approach to practice, maintaining motivation becomes difficult.
 
-Our platform aims to address these challenges and provide an efficient solution for programmers looking to enhance their skills. Here's how our platform helps you:
+## Our Solution
 
-* Centralized practice questions: Instead of visiting multiple platforms, you can access practice questions from various sources, including Codeforces, Leetcode, and more, all in one place. Say goodbye to switching between websites and wasting time.
-* Skill-level recommendations: Our platform incorporates machine learning scripts and Python libraries to recommend practice questions based on your current skill level. By considering factors such as ratings, tags, and more, we ensure that the questions provided are suitable for your growth as a programmer.
-* Interactive features: In addition to practice questions, our platform offers a range of interactive features, including discussion forums, chat rooms (limited to friends), and user profiles. These features enable you to connect with fellow programmers, engage in meaningful discussions, and build a strong coding community.
+ByteBridge addresses these challenges with the following solutions:
 
-### Installation
+- **Centralized practice questions**: Access practice questions from various sources, including Codeforces and Leetcode, all in one platform.
+- **Skill-level recommendations**: Utilizing machine learning scripts and Python libraries, ByteBridge recommends practice questions tailored to your current skill level.
+- **Interactive features**: Engage in discussions, connect with fellow programmers, and build a thriving coding community through features such as discussion forums, chat rooms (limited to friends), and user profiles.
 
-To install the project, first make sure you have Node.js and npm installed on your system. Then, clone the repository and run the following command:
+## Installation
 
-#### For Frontend
+To install ByteBridge, follow these steps:
 
-```
-cd client
-npm i 
-```
+### Frontend
 
-This will install all the required dependencies.
+1. Navigate to the client directory: `cd client`.
+2. Install dependencies: `npm install`.
+3. Run the project: `npm run dev`.
+4. Visit http://localhost:5173 in your browser.
 
-To run the project, use the following command:
+### Backend
 
-```
-npm run dev
-```
+1. Navigate to the server directory: `cd server`.
+2. Install dependencies: `npm install`.
+3. Run the project: `npm start`.
+4. Visit http://localhost:5000 in your browser.
 
-This will start a development server, and you will be able to view the website on your browser at http://localhost:5173.
+## Contributing
 
-#### For Backend
+ByteBridge welcomes contributions from the community. If you have ideas for new features or wish to fix bugs, please submit a pull request. Follow these steps to contribute:
 
-```
-cd server
-npm i 
-```
+1. Fork the repository by clicking the "Fork" button on the top-right corner of the repository page.
+2. Clone the forked repository to your local machine using the following command: git clone https://github.com/<YOUR_USERNAME>/ByteBridge.git
+3. Make your changes, commit them, and push to your fork.
+4. Submit a pull request for review and consideration.
 
-This will install all the required dependencies.
+Happy coding!
 
-To run the project, use the following command:
-
-```
-npm start
-```
-
-This will start a development server, and you will be able to view the website on your browser at http://localhost:5000.
-
-### Contributing
-
-We welcome contributions from the community. If you have an idea for a new feature or would like to fix a bug, please submit a pull request. We will review your changes and merge them if they are in line with the project's goals.
-
-* Fork the repository by clicking the "Fork" button on the top-right corner of the repository page.
-
-* Clone the forked repository to your local machine using the git clone command:
-
-```
-git clone https://github.com/<YOUR_USERNAME>/CodeNova.git
-```
-
-design doc: https://docs.google.com/document/d/1bIziAhJ--MmQvk-q4XGUiM60fk02oVK07Qhbqn9xFbw/edit?usp=sharing
