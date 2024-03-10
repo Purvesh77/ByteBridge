@@ -52,7 +52,7 @@ const Header = () => {
   return (
     <div className="header">
       <Link to="/" className="logo">
-        {"<CodeNova />"}
+        {"<ByteBridge />"}
       </Link>
       <Menu />
       <Link

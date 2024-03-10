@@ -106,7 +106,7 @@ const SignUp = () => {
   return (
     <div className="signup">
       <div className="signup-container">
-        <img src={logo} />
+        {/* <img src={logo} /> */}
         <h3 className="signup-welcome">Welcome</h3>
         <div className="signup-input">
           <input
