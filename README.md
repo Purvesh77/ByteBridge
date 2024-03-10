@@ -1,4 +1,3 @@
-# ByteBridge
 # ByteBridge: Enhancing Programmer Skills
 
 ## Introduction
